@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">Composition</string>
+    <string name="question_mark">\?</string>
+    <string name="welcome_title">Number Composition</string>
+    <string name="game_rules">
+    Game Rules: You will see three shapes—two at the bottom and one at the top. Two of them will contain numbers.
+    Your task is to make sure that the sum of the numbers in the two bottom shapes equals the number in the top shape.
+    To do this, you need to insert the missing number.\n\nExample: If the top circle contains the number 7,
+    one of the bottom shapes has a question mark, and the other has the number 4, then the missing number must be 3,
+    because 3 + 4 = 7.
+</string>
+    <string name="button_understand">Got it</string>
+    <string name="welcome_logo">Welcome Logo</string>
+    <string name="choose_level_title">Choose a level:</string>
+    <string name="easy_level">Easy</string>
+    <string name="normal_level">Medium</string>
+    <string name="hard_level">Hard</string>
+    <string name="test_level">Test</string>
+    <string name="game_over">Game Over</string>
+    <string name="score_answers">Your score: %s</string>
+    <string name="score_percentage">Percentage of correct answers: %s</string>
+    <string name="retry">Try Again</string>
+    <string name="right_answers">Correct answers: %s out of %s required</string>
+    <string name="required_percentage">Required percentage of correct answers: %s</string>
+    <string name="required_score">Required number of correct answers: %s</string>
+    <string name="progress_answers">Correct answers: %s (minimum %s)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
